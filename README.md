@@ -26,3 +26,10 @@ This repository contains a curated list of npm packages that have been **comprom
 
 Check if any of your project dependencies are affected by comparing your `package.json` or lock files against the `list-compromised-npm-shai-hulud.txt` list.
 
+## ☕ Support This Project
+
+If you find this repository useful and would like to support its maintenance, you can **buy me a coffee**! Your support helps keep the project updated and accurate.  
+
+<a href="https://www.buymeacoffee.com/GrzechuG" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
+Thank you for helping the community stay safe! 🙏
