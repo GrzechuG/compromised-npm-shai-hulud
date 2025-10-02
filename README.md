@@ -1,4 +1,4 @@
-# compromised-npm-shai-hulud
+
 # Compromised npm Packages – "Shai-Hulud"
 
 This repository contains a curated list of npm packages that have been **compromised in the ongoing supply chain attack dubbed "Shai-Hulud"**. The goal is to provide a reference for developers, security teams, and organizations to quickly identify affected packages and mitigate risks.
