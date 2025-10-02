@@ -5,7 +5,7 @@ This repository contains a curated list of npm packages that have been **comprom
 
 ---
 
-## 📌 Contents
+## Contents
 
 - `list-compromised-npm-shai-hulud.txt` - list of compromised packages
 - `README.md` – this document.
@@ -20,7 +20,7 @@ This repository contains a curated list of npm packages that have been **comprom
 
 ---
 
-## 📝 How to Use
+## How to Use
 
 ### 1. As a Developer
 
